@@ -1,9 +1,0 @@
-{
-  "name": "fashion-marketplace-backend",
-  "version": "1.0.0",
-  "main": "src/index.ts",
-  "scripts": {
-    "dev": "tsx watch src/index.ts",
-    "start": "tsx src/index.ts"
-  }
-}
